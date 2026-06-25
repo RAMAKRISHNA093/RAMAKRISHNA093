@@ -1,52 +1,34 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Chinthakunta Ramakrishna</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | Big Data Enthusiast | Python Developer</h3>
+
+<h3 align="center">
+Aspiring Data Scientist | Data Analyst | Big Data Enthusiast | Python Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Enthusiast;Data+Analytics+Learner;Big+Data+Explorer;Python+Developer;Power+BI+Developer;Always+Learning+New+Things🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Data+Analytics+Enthusiast;Big+Data+Learner;Python+Developer;Power+BI+Developer;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering (Data Science) Student
-
-📍 KL University, Vijayawada
-
-📊 Passionate about solving real-world problems using data.
-
-💡 Interested in
-
-- Data Science
-- Data Analytics
-- Big Data
-- Machine Learning
-- Business Intelligence
-- Artificial Intelligence
-
-🌱 Currently Learning
-
-- Machine Learning
-- Big Data Technologies
-- Advanced SQL
-- Power BI
-- Data Engineering
-
-💬 Ask Me About
-
-- Python
-- SQL
-- Power BI
-- Pandas
-- Data Cleaning
-- Git & GitHub
+- 🎓 B.Tech Computer Science Engineering (Data Science)
+- 🏫 KL University, Vijayawada
+- 📊 Passionate about Data Science & Analytics
+- 💡 Interested in AI, Machine Learning, Big Data & Business Intelligence
+- 🌱 Currently learning Machine Learning, Big Data Technologies and Advanced SQL
+- 💬 Ask me about Python, SQL, Power BI, Pandas & Git
+- ⚡ Motto: *Turning Data into Decisions.*
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
 <p>
 
@@ -56,7 +38,7 @@
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </p>
 
@@ -70,23 +52,23 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
 ---
 
-## 💾 Database
+## 🗄️ Databases
 
 <p>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
@@ -96,31 +78,31 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🛠 Tools
+## ⚙️ Tools
 
 <p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 
 </p>
 
@@ -128,58 +110,59 @@
 
 # 📈 Skill Progress
 
-Python
+### Python
 
-█████████████░░░░ 85%
+█████████████████░░░ 85%
 
-SQL
+### SQL
 
-████████████░░░░░ 80%
+████████████████░░░░ 80%
 
-Power BI
+### Data Analytics
 
-███████████░░░░░░ 75%
+██████████████████░░ 90%
 
-Machine Learning
+### Power BI
 
-█████████░░░░░░░░ 65%
+███████████████░░░░░ 75%
 
-Big Data
+### Machine Learning
 
-████████░░░░░░░░░ 60%
+█████████████░░░░░░░ 65%
 
-Data Analytics
+### Big Data
 
-██████████████░░░ 90%
+████████████░░░░░░░░ 60%
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 AnalySphere
-> AI-Powered Multi-Platform Intelligence Platform
+## 🌟 AnalySphere
 
-✔ YouTube Analytics
+AI Powered Multi Platform Analytics Platform
 
 ✔ Multi Platform Analytics
 
 ✔ AI Insights
 
-✔ Dashboard
-
 ✔ Sentiment Analysis
 
----
+✔ Dashboard
 
-### 📈 Sales Analytics Dashboard
-
-Power BI Dashboard for Sales & Business Insights.
+✔ Data Visualization
 
 ---
 
-### 📺 YouTube Sentiment Analysis
+## 📊 Sales Analytics Dashboard
 
-Analyze YouTube comments using NLP & Machine Learning.
+Business Intelligence Dashboard using Power BI.
+
+---
+
+## 📺 YouTube Sentiment Analysis
+
+NLP based YouTube Comment Sentiment Analyzer.
 
 ---
 
@@ -187,15 +170,19 @@ Analyze YouTube comments using NLP & Machine Learning.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 💻 Most Used Languages
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -205,7 +192,17 @@ Analyze YouTube comments using NLP & Machine Learning.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -213,23 +210,22 @@ Analyze YouTube comments using NLP & Machine Learning.
 
 # 🌐 Connect With Me
 
-📧 Email
+<p align="center">
 
-**chinthakuntaramakrishna@gmail.com**
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 LinkedIn
+<a href="https://www.linkedin.com/in/chinthakunta-ramakrishna-43700b286/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/chinthakunta-ramakrishna-43700b286/
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+</p>
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ Thank you for visiting my profile ⭐
+
 </h3>
-```
